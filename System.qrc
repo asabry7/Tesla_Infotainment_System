@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Controllers/system.cpp</file>
+        <file>Controllers/system.h</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_qmlimportscan.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_autogen_timestamp_deps.dir
+/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_autogen.dir

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/assets/Tesla-Car-removebg-preview.png</file>
+        <file>ui/assets/car.png</file>
+        <file>ui/assets/locked.png</file>
+        <file>ui/assets/unlocked.png</file>
+        <file>ui/assets/searchIcon.png</file>
+        <file>ui/assets/volume1.png</file>
+        <file>ui/assets/volume2.png</file>
+        <file>ui/assets/volume0.png</file>
+        <file>ui/assets/next.png</file>
+        <file>ui/assets/play.png</file>
+        <file>ui/assets/previous.png</file>
+        <file>ui/assets/songThumb.png</file>
+        <file>ui/assets/pause.png</file>
+        <file>ui/assets/marker.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/Tesla_autogen",
+	"CMAKE_BINARY_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/asabri/qt_apps/Tesla",
+	"CMAKE_SOURCE_DIR" : "/home/asabri/qt_apps/Tesla",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/Tesla_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/asabri/qt_apps/Tesla/ui/assets/locked.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/unlocked.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/volume1.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/songThumb.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/pause.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/next.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/Tesla-Car-removebg-preview.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/volume2.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/marker.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/car.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/volume0.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/previous.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/play.png",
+		"/home/asabri/qt_apps/Tesla/ui/assets/searchIcon.png"
+	],
+	"LOCK_FILE" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/home/asabri/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/asabri/qt_apps/Tesla/images.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

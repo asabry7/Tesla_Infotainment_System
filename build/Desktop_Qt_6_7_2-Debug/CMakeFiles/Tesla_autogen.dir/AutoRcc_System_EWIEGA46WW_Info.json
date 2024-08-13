@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/Tesla_autogen",
+	"CMAKE_BINARY_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/asabri/qt_apps/Tesla",
+	"CMAKE_SOURCE_DIR" : "/home/asabri/qt_apps/Tesla",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/Tesla_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/asabri/qt_apps/Tesla/Controllers/system.cpp",
+		"/home/asabri/qt_apps/Tesla/Controllers/system.h"
+	],
+	"LOCK_FILE" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_autogen.dir/AutoRcc_System_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "System" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_System.cpp",
+	"RCC_EXECUTABLE" : "/home/asabri/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/asabri/qt_apps/Tesla/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Tesla_autogen.dir/AutoRcc_System_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/asabri/qt_apps/Tesla/System.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
